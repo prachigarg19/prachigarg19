@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prachigarg19
 - 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning css
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on cool front end projects
 - 📫 How to reach me by emailing me at prachigarg1923@gmail.com
 
