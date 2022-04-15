@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=790b761172069011fdeb67651202bf83701eda83a2a81c19&rid=giphy.gif&ct=s" width="100"/>
+  <img src="https://media1.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=790b761172069011fdeb67651202bf83701eda83a2a81c19&rid=giphy.gif&ct=s" width="100" height="80%/>
 </div>
 
 - 👋 Hi, I’m @prachigarg19
