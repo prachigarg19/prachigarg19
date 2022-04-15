@@ -22,9 +22,7 @@
   </a>
   
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
- </div>
+
 <hr>
  
 - :telescope: I’m a Second year student who loves contributing to frontend for building web applications.
@@ -77,7 +75,7 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=prachigarg19)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<
+
 ### Thank you for visiting my profile 🤓 
 <!---
 prachigarg19/prachigarg19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
