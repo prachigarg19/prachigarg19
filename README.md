@@ -1,6 +1,12 @@
 <h1 align="center">
   Bonjour! I'm Prachi Garg.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+PrachiGarg;I+am+a+Second+year+student;Frontend+Developer+%3<3"></a>
+</p>
+<!--   <p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
+</p> -->
 </h1>
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=790b761172069011fdeb67651202bf83701eda83a2a81c19&rid=giphy.gif&ct=s" width="200" height="200"/>
@@ -14,9 +20,7 @@
   <a href="https://leetcode.com/prachigarg09/">
     <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
   </a>
-  <a href="https://mail.google.com/a/umn.edu/#inbox/13f62a30179692eb">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=yellow" alt="Leetcode Badge"/>
-  </a>
+  
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
@@ -29,7 +33,7 @@
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-prachi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pg1923/)
+- :mailbox: Mail me at: prachigarg1923@gmail.com
 
 ---
 
@@ -67,9 +71,14 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{prachigarg19}/count.svg)
 
+---
 
+### Here's a sneap peek at my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=prachigarg19)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<
+### Thank you for visiting my profile 🤓 
 <!---
 prachigarg19/prachigarg19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
