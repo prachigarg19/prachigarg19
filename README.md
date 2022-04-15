@@ -2,7 +2,7 @@
   Bonjour! I'm Prachi Garg.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Prachi+Garg;I+am+a+Second+year+student;Frontend+Developer<3"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Prachi+Garg;I+am+a+Sophomore;Web+Developer<3"></a>
 </p>
 <!--   <p align="center">
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
@@ -25,7 +25,7 @@
 
 <hr>
  
-- :telescope: I’m a Second year student who loves contributing to frontend for building web applications.
+- :telescope: I’m a Sophomore who loves contributing to frontend for building web applications.
 
 - :seedling: Exploring Backend development.
 
