@@ -1,5 +1,6 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;align=center"><iframe src="https://giphy.com/embed/NgurY1o4z080Jfoyzw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/transparent-NgurY1o4z080Jfoyzw">via GIPHY</a></p>
-
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=790b761172069011fdeb67651202bf83701eda83a2a81c19&rid=giphy.gif&ct=s" width="100"/>
+</div>
 
 - 👋 Hi, I’m @prachigarg19
 - 👀 I’m interested in front-end web development
