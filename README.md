@@ -69,7 +69,7 @@
 ### Connect with me
 
 <div align="center">
- <a target="_blank" href="https://hitesh22rana.netlify.app/"\>Portfolio Website</a>&nbsp;&nbsp;
+ <a target="_blank" href="https://portfolio-prachigarg19.vercel.app/"\>Portfolio Website</a>&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/pg1923/"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Prachi-Garg-LinkedIn" height="35" width="45" /></a>&nbsp;&nbsp;
  <a href="mailto:prachigarg1923@gmail.com?subject=Hello%20Prachi,%20From%20Github"><img align="center" src="https://user-images.githubusercontent.com/91747922/145641534-6a83084f-2982-449d-9b06-64f8ec368f57.png" alt="Prachi-Garg-Gmail" height="35" width="45" /></a>&nbsp;&nbsp;
  </div>
